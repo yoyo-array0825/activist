@@ -1,0 +1,54 @@
+{
+  "whatIsThis": [
+    "we've really got to start keeping tabs on certain types of individuals.",
+    "It would not be totally off-base to call this effort doxing, but I pers-",
+    "onally have no intent of taking any meaningful action other than to write",
+    "down already-public info in a place where the various facts can be dig-",
+    "ested in one simple json-shaped document."
+  ],
+  "Cops": [
+    {
+      "sequence": 1000001,
+      "cop": "Matthew Honas",
+      "employerRole": "Jackson County Sheriff's Office deputy",
+      "licensingOrg": "Kansas Commission on Peace Officers' Standards and Training (CPOST)",
+      "fired": true,
+      "stillAllowedToWorkAsCop": true,
+      "whatCopDid": [
+        "Pretty much brutzlized 12yo autistic kid who was fleeing his foster home ",
+        "-- including a tasering while the child was hogtied and apparently already ",
+        "locked inside the cop's cruiser. This was after squeezing (or something) the kid's ",
+        "face/jaw area for no other reason that to inflict pain."
+      ],
+      "outcome": "Fired but allowed to retain law enforcement license/accreditation after a review by state licensing board",
+      "chargedWithCrime": "Does not appear so",
+      "anArticle": "https://reason.com/2022/10/11/brickbat-rapping-his-knuckles/"
+    },
+    {
+      "sequence": 1000002,
+      "cop": "Bryan Wilson",
+      "employerRole": "Louisville Metro Police officer",
+      "licensingOrg": null,
+      "fired": null,
+      "stillAllowedToWorkAsCop": null,
+      "whatCopDid": [
+        "",
+        "Among other things-- Broke into an some software system used by his department and copied some ",
+        "nsfw/explicit photos of local women, which he then threatened to send and in one case did send to",
+        "at least one woman's family and/or employer. ... Scratching me head over why a system marketed ",
+        "to law enforcement agencies (it's called Accruent, btw, and is a LexisNexis product) would ",
+        "be storing nsfw/explicit photos of non-criminals but one thing at a time here.",
+        "IThe info I got to on this didn't get to whatever tf this douchebag's endgame was, but please see ",
+        "the chargedWithCrime info below -- it appears he and some colleagues just enjoy being abusive.",
+        ""
+      ],
+      "outcome": [
+        "He is most likely going to jail but not sure on details as of publish time. On this particular rec-",
+        "reational activity, he got the minimum sentence in exchange for pleading guilty to randomly assault-",
+        "in padestrians with fountain drinks, which it appears several of his co-workers also enjoyed doing."
+      ],
+      "chargedWithCrime": "Yes -- pleaded guilty to cybercrimes and busted for a string of seemingly unrelated civil rights violations",
+      "anArticle": "https://www.usatoday.com/story/news/nation/2022/10/13/louisville-police-officer-snapchat-hack-nudes/10488052002/"
+    }
+  ]
+}
